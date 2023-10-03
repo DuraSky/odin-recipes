@@ -1,0 +1,27 @@
+
+* {
+    background-color: lightblue;
+    font-family:Arial, Helvetica, sans-serif;
+}
+
+h1 {
+    color: white;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+h4.desc{
+    color: green;
+    font-style: italic;
+}
+
+li {
+    font-size: 14px;
+}
+
+#try{ 
+    color: white;
+}
+
+p {
+    /* text-align:justify; */
+}
