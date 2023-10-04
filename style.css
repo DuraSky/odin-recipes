@@ -5,8 +5,12 @@
 }
 
 h1 {
-    color: white;
+    color: white; 
     font-family: 'Courier New', Courier, monospace;
+}
+
+.h1menu{
+    padding-left: 1em;
 }
 
 h4.desc{
@@ -14,14 +18,22 @@ h4.desc{
     font-style: italic;
 }
 
+ul.recipemenu li {
+    display: inline;
+}
+
 li {
     font-size: 14px;
+    padding-right: 0.5em;
 }
 
 #try{ 
     color: white;
 }
 
-p {
-    /* text-align:justify; */
-}
+.welcomepagemenu{
+    margin: 1em auto;
+    width: 400px;
+} 
+
+
